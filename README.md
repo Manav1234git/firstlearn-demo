@@ -1,4 +1,4 @@
 # firstlearn-demo
-This is for practice
+This is my first git repository.
 <br>
 Author-Manav Gupta
